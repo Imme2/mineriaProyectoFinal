@@ -7,7 +7,7 @@ import numpy as np
 
 # (faltan imports)
 
-messages = pandas.read_csv('DATA/train_2000.label', sep="\t",quoting=csv.QUOTE_NONE,
+messages = pandas.read_csv('DATA_TAB/train_3000.label', sep="\t",quoting=csv.QUOTE_NONE,
 							names=["label","sublabel","question"])
 
 messages['length'] = messages['question'].map(lambda text: len(text))
