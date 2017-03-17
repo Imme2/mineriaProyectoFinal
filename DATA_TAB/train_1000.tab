@@ -202,7 +202,7 @@ HUM	ind	 Name Alvin 's brothers
 DESC	def	 What is Eagle 's syndrome styloid process ?
 DESC	manner	 How did Jayne Mansfield die ?
 NUM	date	 When did the royal wedding of Prince Andrew and Fergie take place ?
-HUM	ind	 What actor said in A Day at the Races 		 `` Either he 's dead or my watch has stopped '' ?
+HUM	ind	 What actor said in A Day at the Races : `` Either he 's dead or my watch has stopped '' ?
 HUM	ind	 What explorer was nicknamed Iberia 's Pilot ?
 NUM	date	 CNN began broadcasting in what year ?
 ENTY	termeq	 What is a ball that hits the foul pole called ?
@@ -255,7 +255,7 @@ HUM	gr	 What schools in the Washington , DC NN NN VBP NN NN NN NN .
 NUM	date	 When did the Berlin Wall go up ?
 HUM	desc	 Who is Terrence Malick ?
 ENTY	instru	 What instrument is Ray Charles best known for playing ?
-DESC	def	 What 's the meaning of the Latin battle cry 		 Ad arma , ad arma .
+DESC	def	 What 's the meaning of the Latin battle cry : Ad arma , ad arma .
 ENTY	other	 What is the mascot for Notre Dame University ?
 LOC	other	 What Las Vegas hotel burned in November , 1980 , with the loss of 84 lives ?
 NUM	date	 When did Mount St. Helen last have a significant eruption ?
@@ -284,7 +284,7 @@ NUM	date	 When did Spielberg direct `` Jaws '' ?
 NUM	volsize	 What is the size of the largest akita ?
 ENTY	animal	 What animal has the biggest eyes ?
 LOC	city	 What is California 's capital ?
-HUM	ind	 Who was the author of the book about computer hackers called `` The Cuckoo 's Egg 		 Tracking a Spy Through the Maze of Computer Espionage '' ?
+HUM	ind	 Who was the author of the book about computer hackers called `` The Cuckoo 's Egg : Tracking a Spy Through the Maze of Computer Espionage '' ?
 HUM	ind	 Who was the founding member of the Pink Floyd band ?
 LOC	country	 What European country is home to the beer-producing city of Budweis ?
 DESC	manner	 How do I find the balance of my social security account ?
@@ -295,7 +295,7 @@ DESC	manner	 How do you get to the top of the Eiffel Tower ?
 ABBR	exp	 What does ` PSI ' stand for ?
 LOC	other	 What sea did the Romans call mare nostrum ?
 ENTY	termeq	 What 's the term for a bet before cards are dealt ?
-ENTY	animal	 Which came first , according to Genesis 1 		 2 		 22 - the chicken or the egg ?
+ENTY	animal	 Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ?
 LOC	city	 What city did the Flintstones live in ?
 ENTY	termeq	 What is Latin for incompetent ?
 ENTY	dismed	 What chemicals are used in lethal injection ?
@@ -368,9 +368,9 @@ DESC	manner	 How successful is arometherapy ?
 ENTY	event	 What Jewish holiday saw the start of the 1973 Mideast War ?
 DESC	manner	 How does a copier work ?
 NUM	speed	 What is the speed of the Mississippi River ?
-HUM	ind	 Who said of Super Bowl III in 1969 		 `` We 'll win- I guarantee it '' ?
+HUM	ind	 Who said of Super Bowl III in 1969 : `` We 'll win- I guarantee it '' ?
 ENTY	animal	 What is Dudley Do-Right 's horse 's name ?
-HUM	ind	 Who declared 		 `` I am down on whores and I shan 't stop ripping them '' ?
+HUM	ind	 Who declared : `` I am down on whores and I shan 't stop ripping them '' ?
 LOC	other	 Where does chocolate come from ?
 ENTY	cremat	 What TV game show once saw a contestant admit to picking his toes in the shower ?
 HUM	ind	 What Soviet leader owned a Rolls-Royce ?
@@ -415,7 +415,7 @@ LOC	other	 Where was the Ligurian Republic , 1797-185 , ?
 LOC	country	 What country 's people are the top television watchers ?
 NUM	date	 When was the women 's suffrage amendment ratified ?
 HUM	gr	 What Polynesian people inhabit New Zealand ?
-ENTY	cremat	 What movie tour of the Roman empire features the admonition 		 `` Row well and live '' ?
+ENTY	cremat	 What movie tour of the Roman empire features the admonition : `` Row well and live '' ?
 LOC	city	 What Nevada center has been dubbed The Biggest Little City in the World ?
 HUM	ind	 What President lived at 219 North Delaware Street , Independence , Missouri ?
 DESC	reason	 Give a reason for American Indians oftentimes dropping out of school .
@@ -473,7 +473,7 @@ HUM	desc	 Who is the `` Queen Mother '' ?
 ENTY	lang	 What 's the most commonly-spoken language in Belgium ?
 HUM	ind	 Who has more DNA - a man or a woman ?
 DESC	def	 What are Maid-Rites ?
-ENTY	cremat	 What children 's tale contains the line 		 `` Come , Cinderslut , and hold this skein of wool for me '' ?
+ENTY	cremat	 What children 's tale contains the line : `` Come , Cinderslut , and hold this skein of wool for me '' ?
 HUM	gr	 What level of government or governmental agency is responsible for dealing with racism ?
 NUM	count	 How many referees work a soccer game ?
 ENTY	food	 What cocktail do you concoct with whisky and sweet vermouth ?
@@ -523,7 +523,7 @@ DESC	reason	 What makes a clitoris sensitive ?
 LOC	country	 What country has the most time zones , with 11 ?
 ENTY	other	 What `` magic '' does Mandrake employ ?
 HUM	ind	 Who is the president of Stanford University ?
-HUM	ind	 Whose first presidential order was 		 `` Let 's get this goddamn thing airborne '' ?
+HUM	ind	 Whose first presidential order was : `` Let 's get this goddamn thing airborne '' ?
 ENTY	other	 What was introduced commercially by Bayer A.G. of Leverkusen , in 1899 ?
 LOC	city	 What city is Logan Airport in ?
 DESC	def	 What is a nanometer ?
@@ -587,11 +587,11 @@ LOC	other	 Where is the Abominable Snowman said to wander ?
 ENTY	dismed	 What is a fear of being alone ?
 NUM	count	 How many dots make up the symbol for `` because '' ?
 ENTY	food	 What do you get by adding Lactobacillus bulgaricus to milk ?
-ABBR	exp	 When reading classified ads , what does EENTY 		 other stand for ?
+ABBR	exp	 When reading classified ads , what does EENTY : other stand for ?
 NUM	count	 How many hearts does an octopus have ?
 ENTY	plant	 What plant has the largest seed ?
 LOC	country	 What was the only country you were allowed to drive into Israel from in 1979 ?
-ENTY	other	 What 's approaching when a cyclist shouts 		 `` Oil '' ?
+ENTY	other	 What 's approaching when a cyclist shouts : `` Oil '' ?
 HUM	ind	 What baseball star turned down a $1 , 000-a-year contract because he felt he had n't earned it ?
 ENTY	sport	 What kind of sport is often associated with hooligans ?
 HUM	ind	 What video game hero do some of his fans call Chomper ?
@@ -692,7 +692,7 @@ HUM	ind	 What was the name of the daughter of the Virginia chief Powhatan that m
 LOC	state	 What is the leading pecan and peanut growing state ?
 DESC	desc	 What does a nihilist believe in ?
 DESC	desc	 What did Richard Feynman say upon hearing he would receive the Nobel Prize in Physics ?
-ENTY	sport	 In what sport are these following numbers relevant 		 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ?
+ENTY	sport	 In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ?
 HUM	ind	 Who were the four famous founders of United Artists ?
 ENTY	cremat	 What 2 statues did France give to other countries ?
 DESC	def	 What are amphibians ?
@@ -790,7 +790,7 @@ ENTY	lang	 What language is mostly spoken in Brazil ?
 HUM	gr	 What college produced the most winning Super Bowl quarterbacks ?
 DESC	manner	 How do you solve `` Rubik 's Cube '' ?
 DESC	def	 What is prepared mustard ?
-HUM	ind	 What classical Spanish writer warned 		 `` All that glitters is not gold '' ?
+HUM	ind	 What classical Spanish writer warned : `` All that glitters is not gold '' ?
 DESC	def	 What does `` antidisestablishmentarianism '' mean ?
 HUM	ind	 What actor married John F. Kennedy 's sister ?
 ENTY	dismed	 What does a topophobic actor suffer from ?
@@ -858,7 +858,7 @@ HUM	ind	 Who was Lauren Bacall 's first husband ?
 DESC	def	 What is a rhomboideus minor ?
 NUM	count	 How many hands does Bjorn Borg use when hitting his forehand ?
 NUM	count	 How many people died on D-Day ?
-HUM	ind	 What U.S. Congressman said 		 `` Keep the faith , baby '' .
+HUM	ind	 What U.S. Congressman said : `` Keep the faith , baby '' .
 HUM	ind	 Who created the character of Scrooge ?
 NUM	other	 What is the student population at the University of Massachusetts in Amherst ?
 LOC	other	 Where is Windsor Castle ?
@@ -874,7 +874,7 @@ LOC	other	 Where 's the Petrified Forest ?
 ENTY	lang	 What is a language spoken by the Sioux ?
 LOC	other	 Where is Tornado Alley ?
 HUM	ind	 Who was the author of `` John Brown 's Body '' ?
-HUM	ind	 What American poet wrote 		 `` Good fences make good neighbors '' ?
+HUM	ind	 What American poet wrote : `` Good fences make good neighbors '' ?
 LOC	state	 What state in the U.S. has the most blacks ?
 DESC	reason	 Why are electric cars less efficient in the northeast than in California ?
 HUM	title	 What was the occupation of Mandy Rice-Davies ?
@@ -927,7 +927,7 @@ HUM	ind	 What author did photographer Yousuf Karsh call `` the shiest man I ever
 ENTY	other	 Which is the largest clock , diameter wise , in Europe ?
 ENTY	plant	 What plant is rum made from ?
 LOC	country	 What country are Godiva chocolates from ?
-HUM	ind	 Name the poet of the poem which begins 		 I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?
+HUM	ind	 Name the poet of the poem which begins : I do not know much about gods ; but I think that the river Is a strong brown god-sullen , and untamed ?
 ENTY	food	 Which condiment was once sold as a patent medicine ?
 LOC	state	 What U.S. state records the least rainfall ?
 DESC	reason	 Why did the world enter a global depression in 1929 ?
