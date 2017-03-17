@@ -25,7 +25,7 @@ if __name__ == '__main__':
 	messages['length'] = messages['question'].map(lambda text: len(text))
 
 	messages.hist(column='length',by='label',bins = 40)
-	plt.show()
+	plt.savefig("Histogramas/train_3000.png")
 
 	bow_transformer = CountVectorizer(analyzer=split_into_lemmas).fit(messages['question'])
 
@@ -34,3 +34,9 @@ if __name__ == '__main__':
 	tfidf_transformer = TfidfTransformer().fit(messages_bow)
 	messages_tfidf = tfidf_transformer.transform(messages_bow)
 	# Aqui en messages_tfidf y con el transformer ya tenemos todas las palabras
+
+	with open("TFIDF/train_3000.tfidf","w") as f:
+		for word in bow_transformer.vocabulary_:
+			f.write(word.encode("utf-8") + " ")
+			f.write(str(tfidf_transformer.idf_[bow_transformer.vocabulary_[word]]))
+			f.write("\n")
