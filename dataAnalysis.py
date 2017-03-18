@@ -35,8 +35,24 @@ if __name__ == '__main__':
 	messages_tfidf = tfidf_transformer.transform(messages_bow)
 	# Aqui en messages_tfidf y con el transformer ya tenemos todas las palabras
 
+	print messages_tfidf.shape[0]
+	print messages_tfidf.shape[1]
+
+	print messages_tfidf[0,4937]
+
+	print bow_transformer.get_feature_names()[0]
+
 	with open("TFIDF/train_3000.tfidf","w") as f:
-		for word in bow_transformer.vocabulary_:
-			f.write(word.encode("utf-8") + " ")
-			f.write(str(tfidf_transformer.idf_[bow_transformer.vocabulary_[word]]))
-			f.write("\n")
+		palabras = messages_tfidf.shape[1]
+		preguntas = messages_tfidf.shape[0]
+
+		f.write(bow_transformer.get_feature_names()[0].encode('utf-8'))
+		for i in range(1,messages_tfidf.shape[1]):
+			f.write('\t' + bow_transformer.get_feature_names()[i].encode('utf-8'))
+
+		f.write('\n')
+		for i in range(preguntas):
+			f.write(str(messages_tfidf[i,0]))
+			for j in range(1,palabras):
+				f.write('\t' + str(messages_tfidf[i,j]))
+			f.write('\n')
