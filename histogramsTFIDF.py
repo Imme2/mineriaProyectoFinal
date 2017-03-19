@@ -46,6 +46,4 @@ if __name__ == '__main__':
 			auxHist += [messages_tfidf_grupos[i,j]]
 		enum = [k for k in range(len(auxHist))]
 		plt.hist(enum,bins=palabras/4,weights=auxHist)
-
-
-	plt.savefig("Histogramas/histogramaTFIDF_" + messages['label'].unique()[i])
+		plt.savefig("Histogramas/histogramaTFIDF_" + messages['label'].unique()[i])
