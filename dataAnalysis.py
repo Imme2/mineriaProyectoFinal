@@ -31,6 +31,7 @@ if __name__ == '__main__':
 
 	messages_bow = bow_transformer.transform(messages['question'])
 
+
 	tfidf_transformer = TfidfTransformer().fit(messages_bow)
 	messages_tfidf = tfidf_transformer.transform(messages_bow)
 	# Aqui en messages_tfidf y con el transformer ya tenemos todas las palabras
